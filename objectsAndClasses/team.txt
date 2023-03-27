@@ -1,0 +1,9 @@
+3
+Tatyana-Club1
+Helena-Club1
+Trifon-Club2
+Peter->Club2
+Helena->Club1
+Petter->Club2
+Cossima->Club1
+end of assignment
